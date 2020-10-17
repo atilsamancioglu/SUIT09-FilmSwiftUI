@@ -11,7 +11,7 @@ import SwiftUI
 struct FilmAramaSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FilmListeView()
         }
     }
 }
